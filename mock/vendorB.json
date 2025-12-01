@@ -1,0 +1,14 @@
+{
+  "ABC123": {
+    "id": "ABC123",
+    "stock_count": 6,
+    "amount": 110.75,
+    "availability": true
+  },
+  "XYZ789": {
+    "id": "XYZ789",
+    "stock_count": 0,
+    "amount": "N/A",
+    "availability": false
+  }
+}
